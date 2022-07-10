@@ -208,11 +208,6 @@ header {
   margin-right: 30px;
 }
 
-.advantage,
-.engage {
-  background-color: #e5e5e5;
-}
-
 .section-title {
   margin-bottom: 50px;
   color: var(--title-text-color);
@@ -303,7 +298,7 @@ header {
 /* карточка работ */
 
 main {
-  background-color: #e5e5e5;
+  background-color: var(--white-color);
 }
 
 .card-content {
