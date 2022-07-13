@@ -118,7 +118,7 @@ header {
 }
 
 .site-nav .item:not(:last-child) {
-  margin-right: 40px;
+  margin-right: 50px;
 }
 
 .site-nav .link:hover,
@@ -144,7 +144,7 @@ header {
 /* hero */
 
 .hero {
-  padding: 200px;
+  padding: 200px 0;
   background-color: #2f303a;
   color: var(--white-color);
   text-align: center;
